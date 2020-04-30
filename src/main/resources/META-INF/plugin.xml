@@ -1,0 +1,19 @@
+<idea-plugin>
+    <id>com.github.liamcoatman.intellifaculty</id>
+    <name>Faculty</name>
+
+    <vendor email="liam.coatman@gmail.com">Liam Coatman</vendor>
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+
+        <applicationConfigurable
+                instance="com.github.liamcoatman.intellijfaculty.state.FacultyPluginConfigurable"
+                id="liamcoatman.faculty"
+                displayName="Faculty"
+        />
+
+    </extensions>
+
+</idea-plugin>

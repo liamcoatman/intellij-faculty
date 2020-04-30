@@ -1,0 +1,1 @@
+# Faculty plugin for IntelliJ
