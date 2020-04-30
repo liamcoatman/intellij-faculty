@@ -1,1 +1,1 @@
-# Faculty plugin for IntelliJ
+# [WIP] Faculty plugin for IntelliJ
